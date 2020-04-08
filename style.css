@@ -1,0 +1,171 @@
+body{
+    background:linear-gradient(to left,blue,cyan,grey);
+    background-color:lightskyblue;
+ background-color:rgb(51,204,255);
+ border:3px solid blueviolet; 
+ border-radius:20px; 
+ margin:3px;
+ padding:10px;
+
+  font-family:'Balthazar',serif;
+}
+#pp{
+  height:180px;
+  width:150px;
+  border-radius:10px;
+  border:3px groove yellow;
+  position:relative;
+  margin:10px auto;
+  display:block ;
+}
+#skills{
+background-color:white;
+margin-top:20px;
+padding-left:30px;
+padding-top:10px;
+padding-bottom:10px;
+border-radius:15px;
+box-shadow:0 2px 3px rgba(0,0,0,0.25);
+font-family: 'Teko', sans-serif;
+}
+
+progress {
+width: 60%;
+height: 20px;
+border-radius:50px;
+box-shadow: 0 2px 5px rgba(150, 0, 225,0.5 )
+font-family: 'Teko', sans-serif;
+
+}
+progress::-webkit-progress-bar {
+background: #efefef;
+border-radius:50px;
+font-family: 'Teko', sans-serif;
+}
+progress::-webkit-progress-value {
+background: #3fb6b2;
+border-radius:50px;
+} 
+progress{
+  position:absolute;
+  left:100px;
+  height:20px;
+  width:60%;
+  background:#efefef;
+  border-radius:50px;
+box-shadow: 0 2px 5px rgba(150, 0, 225,0.5 )
+}
+progress::-webkit-progress-bar {
+    background: #efefef;
+}
+progress::-webkit-progress-value {
+    background:#ff3366;
+} 
+progress::-moz-progress-bar {
+    color: #3fb6b2;
+    background: #efefef;
+}
+.heading{
+    background-color:yellow;
+  text-align:center;
+  color:purple;
+  text-decoration:underline ;
+  font-family:'Balthazar',serif;
+  border-radius:50px;
+  font-family: 'Teko', sans-serif;
+}
+#hobby{
+    font-size:30px;
+    color:blue;
+    padding:0px;
+    font-family: 'Teko', sans-serif;
+}
+#fav{
+    font-size:30px;
+    color:blue;
+    padding:0px;
+    font-family: 'Teko', sans-serif;
+}
+p{
+     font-family: 'Teko', sans-serif;
+}
+h1{
+     font-family: 'Teko', sans-serif;
+}
+.section{
+ background-color:rgb(51,204,255);
+ border:3px solid blueviolet; 
+ border-radius:20px; 
+ margin:3px;
+ padding:10px;
+}
+.heading{
+  text-align:center;
+  color:blue;
+  text-decoration:underline ;
+  font-family:'Balthazar',serif;
+}
+#fav{
+ background-color:rgb(51,204,255);
+ border:3px solid lightblue; 
+ border-radius:20px; 
+ margin:3px;
+ padding:10px;
+}
+#fav1{
+  text-align:center;
+  color:yellow;
+  text-decoration:underline ;
+  font-family:'Balthazar',serif;
+}
+h1
+{
+    text-align:center;
+    font-color:"yellow";
+    
+}
+#hobby{
+ background-color:rgb(51,204,255);
+ border:3px solid blueviolet; 
+ border-radius:20px; 
+ margin:3px;
+ padding:10px;
+}
+#hobby1{
+  text-align:center;
+  color:yellow;
+  text-decoration:underline ;
+  font-family:'Balthazar',serif;
+}
+#hobby2{
+  text-align:center;
+  color:yellow;
+  text-decoration:underline ;
+  font-family:'Balthazar',serif;
+}
+
+#hobby3{
+  text-align:center;
+  color:yellow;
+  text-decoration:underline ;
+  font-family:'Balthazar',serif;
+}
+
+#sm{
+ height:35px;
+ width:35px;
+}
+#icons{
+ margin:10px auto;
+ display:block ;
+ text-align:center ;
+}       
+.box{ 
+width: 30%; 
+height: 200px; 
+border: 5px dashed yellow;
+} 
+#id{ 
+width: 150%; 
+height: 150%; 
+}
